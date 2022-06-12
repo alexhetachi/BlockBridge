@@ -1,11 +1,16 @@
 # BlockBridge
 
-// Install dependencies backend
+#Install dependencies backend
+
 npm i
 
-// Install dependencies frontend
+#Install dependencies frontend
+
 cd frontend
+
 npm i
 
-// Start app by typing
+
+#Start app by typing
+
 npm run dev
